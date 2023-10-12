@@ -1,5 +1,5 @@
 <div id="badges"> <a href="https://au.linkedin.com/in/kimberley-roche-72370621a"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
-![](https://komarev.com/ghpvc/?username=kimberleyroche)
+
 <h1> Hi there! 👋 </h1>
 
 My name is Kim. I was a hobbyist just vibing, but then I realised coding was pretty fun.
@@ -19,3 +19,4 @@ My name is Kim. I was a hobbyist just vibing, but then I realised coding was pre
 ### My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kimberleyroche&theme=blood-dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimberleyroche&layout=compact)
+![](https://komarev.com/ghpvc/?username=kimberleyroche)
