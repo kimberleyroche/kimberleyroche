@@ -1,9 +1,10 @@
 ### Hi there! 👋
 My name is Kim. I was a hobbyist just vibing, but then I realised coding was pretty fun.
 
-What am I doing?
-- ☠ I’m currently working on a Halloween Recipe Book. 
-- 📓 I’m currently learning CSS, JavaScript and Python.
+### I am currently...
+- 💀 Working on a Halloween Recipe Book. 
+- 📓 Learning CSS, JavaScript and Python.
+- Trying out LinkedIn Learning's free trial and halfway through The Odin Project's foundation course. 
 
 ### Projects:
 - 💗 Hello Kitty Bedtime: drag Kitty White and other Sanrio friends around the screen and tuck them into bed. Uses HTML, CSS and JavaScript.
