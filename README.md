@@ -19,4 +19,3 @@ My name is Kim. I was a hobbyist just vibing, but then I realised coding was pre
 ### My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kimberleyroche&theme=blood-dark)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimberleyroche&layout=compact)
-![](https://komarev.com/ghpvc/?username=kimberleyroche)
