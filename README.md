@@ -1,5 +1,5 @@
-<div id="badges"> <a href="https://au.linkedin.com/in/kimberley-roche-72370621a"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 [![An image of @kimberleyroche's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kimberleyroche)](https://holopin.io/@kimberleyroche)
+<div id="badges"> <a href="https://au.linkedin.com/in/kimberley-roche-72370621a"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 <h1> Hi there! 👋 </h1>
 
 My name is Kim. I was a hobbyist just vibing, but then I realised coding was pretty fun.
