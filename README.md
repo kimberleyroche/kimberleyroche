@@ -5,16 +5,14 @@
 My name is Kim. I was a hobbyist just vibing, but then I realised coding was pretty fun.
 
 ### I am currently...
-- 💀 Working on a Halloween Recipe Book. 
-- 💻 Learning CSS, JavaScript and Python.
+- 💻 Learning JavaScript and Python.
 - 📚 Trying out LinkedIn Learning's free trial.
 - 📝 Halfway through The Odin Project's foundation course, earning Google Skill Badges at Qwiklabs, and perusing through MIT's FreeCourseWare CS50 course. 
 
 ### Projects:
 - 💗 Hello Kitty Bedtime: drag Kitty White and other Sanrio friends around the screen and tuck them into bed. Uses HTML, CSS and JavaScript.
-- 👻 Halloween Recipe Book: simple recipes focused around our favourite spooky season. Uses HTML and CSS, an assignment done for The Odin Project's foundation course.
-- 🦋 Butterfly Shrine Landing Page (tbd): an ode to butterflies. Uses HTML and CSS, the second assignment done for The Odin Project's foundation course.
-- ☀️ Sunday Sites profile: will host all websites I make for Sunday Sites.
+- 👻 Halloween Recipe Book: simple recipes focused around Halloween. Uses HTML and CSS, an assignment done for The Odin Project's foundation course.
+- 🖊 Typing Test Speed: a typing test website built with HTML, CSS, and JavaScript. Records your WPM, accuracy and time.
 
 ### My Stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kimberleyroche&theme=blood-dark)](https://git.io/streak-stats)
