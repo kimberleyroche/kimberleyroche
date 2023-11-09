@@ -2,8 +2,6 @@
 <div id="badges"> <a href="https://au.linkedin.com/in/kimberley-roche-72370621a"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a>
 <h1> Hi there! 👋 </h1>
 
-My name is Kim. I was a hobbyist just vibing, but then I realised coding was pretty fun.
-
 ### I am currently...
 - 💻 Learning JavaScript and Python.
 - 📚 Trying out LinkedIn Learning's free trial.
